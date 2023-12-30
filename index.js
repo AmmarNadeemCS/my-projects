@@ -1,0 +1,1 @@
+<p>Welcome to js platform</p>
